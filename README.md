@@ -1,4 +1,4 @@
-# [Sequence Learning of Smart Contracts arXiv Paper](https://www.)
+# [Sequence Learning of Smart Contract Vulnerabilities arXiv Paper](https://arxiv.org/abs/1811.06632)
 
 ### Folder -- input_data 
 This folder contains 3 csv files of distinct suicidal, prodigal, and greedy FPs used for test.
