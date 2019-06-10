@@ -10,11 +10,11 @@ This folder contains 3 csv files of distinct suicidal, prodigal, and greedy FPs.
 
 
 ### Folder---saved_model 
-This folder contains both trained models.
+This folder contains trained models, with the latest one being 'V6_620k_batch9'
 
     * LSTM
     * improved_LSTM
-
+    * V6_620k_batch9 
 
 ### Jupyter Notebooks 
 Jupyter notebooks for prototyping and evaluation:
@@ -29,6 +29,7 @@ Python scripts for running experiments:
 
     * Learning Smart Contract Security Exploits
     * Learning Smart Contract Security Exploits_addedFPs
+    * Learning Smart Contract Security Exploits_revised - the latest script which trains the LSTM model on code vectors of Smart Contracts. 
 
 
 -Code for academic research.
