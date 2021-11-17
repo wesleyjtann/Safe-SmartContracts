@@ -32,4 +32,10 @@ Python scripts for running experiments:
     * Learning Smart Contract Security Exploits_revised - the latest script which trains the LSTM model on code vectors of Smart Contracts. 
 
 
+### Input Data
+Link below:
+
+* https://drive.google.com/drive/folders/1KuKxknJ-uOWZOaymP9b3eOXa1hFNZxVS?usp=sharing
+
+
 -Code for academic research.
